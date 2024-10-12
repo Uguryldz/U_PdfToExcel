@@ -4,6 +4,17 @@
 
 This project is a simple PDF to Excel converter that extracts both text and table data from PDF files and saves them into an Excel workbook with two separate sheets: one for text content and one for tables.
 
+## YouTube 
+
+I have also created a YouTube video explaining this project. You can watch the video through the link below:
+
+[![Watch the video](https://img.youtube.com/vi/ekmzppcW3jc/0.jpg)](https://youtu.be/ekmzppcW3jc)
+
+Click the image or the link to watch the video:  
+[https://youtu.be/ekmzppcW3jc](https://youtu.be/ekmzppcW3jc)
+
+
+
 ## Features
 
 - Extracts text content from each page of the PDF and stores it in a sheet named `U_TextContent`.
