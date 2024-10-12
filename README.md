@@ -1,6 +1,6 @@
 # U_PdfToExcel
 
-# PDF to Excel Converter
+## PDF to Excel Converter
 
 This project is a simple PDF to Excel converter that extracts both text and table data from PDF files and saves them into an Excel workbook with two separate sheets: one for text content and one for tables.
 
