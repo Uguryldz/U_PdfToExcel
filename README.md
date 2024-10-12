@@ -70,9 +70,9 @@ You can use an HTTP client like Postman or cURL to send a PDF file to the server
 Using cURL:
 
 ```bash
-curl -X POST http://localhost:8089/upload \
-    -F "file=@path_to_your_file.pdf" \
-    -F "output_path=path_to_save_output.xlsx"
+curl -X POST "{in_url}" \
+  -F "file=@{in_pdffilePath};type=application/pdf" \
+  -F "output_path={in_outputxlsxPath}"
 ```
 ## Log Files
 
